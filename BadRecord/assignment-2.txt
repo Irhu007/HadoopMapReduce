@@ -1,0 +1,4 @@
+This,property,states,788,that,a,transaction,3567,must,be,treated,as,an,343,atomic,unit,,that,is,
+either,all,of,its,565,operations,are,executed,or,none,There,must,576,be,no,state,in,a,database,where,a,transaction,is
+left,partially,completed,7899,States,should,be,defined,4676,either,before,the,execution,of,the,transaction,or,after,the
+execution/abortion/failure,45764,of,the,transaction
